@@ -60,7 +60,7 @@
     "flowgen": "1.11.0"
   },
   "dependencies": {
-    "@paypal/card-components": "https://github.com/maryanahermawan/paypal-card-components.git#hosted-field-eager",
+    "@paypal/card-components": "https://github.com/maryanahermawan/paypal-card-components.git#hosted-field-lazy",
     "@paypal/checkout-components": "5.0.194",
     "@paypal/common-components": "1.0.23",
     "@paypal/example-components": "1.0.27",
